@@ -1,4 +1,4 @@
-# Pokedex
+# Pokédex
 
 🛠️ Construído -- Java Script, HMTL & CSS.
 
